@@ -55,7 +55,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ButtonSound.cs" />
+     <Compile Include="Assets\Fullscreen.cs" />
+     <Compile Include="Assets\Quality.cs" />
      <Compile Include="Assets\Scenes\MainMenu.cs" />
+     <Compile Include="Assets\SetEffects.cs" />
+     <Compile Include="Assets\SetMusic.cs" />
+     <Compile Include="Assets\SetVolume.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
